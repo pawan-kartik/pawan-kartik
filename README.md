@@ -4,4 +4,7 @@ I'm Pawan Kartik, a postgraduate student at The University of Manchester where I
 
 Prior to my Master's, I worked at DeepSource for about 2-2.5 years where I was responsible for building and maintaining their C# and Scala static code analysers from the ground up.
 
+
+I currently work at Elastic in their Search Foundations team; Cross Cluster Search subteam to be precise. We're responsible for building search-related functionality from Cross Cluster Search perspective. If you ever ran a search that targeted and returned results from multiple clusters, that's us!
+
 If you're a PL enthusiast and/or would like to have a chat, please send me an email at pawankartikc@gmail.com!
